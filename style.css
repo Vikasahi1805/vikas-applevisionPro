@@ -127,7 +127,7 @@ body {
 }
 #page3-upper{
     height: 25%;
-    width: 35%;
+    width: 62%;
     position: absolute;
     z-index: 9;
     top: 5%;
@@ -401,21 +401,23 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: #fff;
+    margin-top: +5vh;
 }
 .left14{
-    height: 90%;
-    width: 45%;
+    height: 100%;
+    width: 100%;
     position: relative;
-    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/design/glass_top__k3b8lzqd1l2m_large.jpg);
+    background-image: url(https://techcrunch.com/wp-content/uploads/2023/06/IMG_0058.jpeg);
     background-size: cover;
+    
 }
-.right14{
+/* .right14{
     height: 90%;
     width: 45%;
     position: relative;
     background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/design/glass_side__gm4agomrwl2e_large.jpg);
     background-size: cover;
-}
+} */
 #page15{
     position: relative;
     height: 100vh;
@@ -425,8 +427,8 @@ body {
     justify-content: center;
 }
 #center-page15{
-    height: 90%;
-    width: 95%;
+    height: 100%;
+    width: 100%;
     position: relative;
     overflow: hidden;
 }
@@ -455,13 +457,14 @@ body {
     color: #000;
 }
 #page16>img{
-    width: 60%;
+    width: 55%;
     position: absolute;
-    bottom: 0%;
+    bottom: 12%;
+    margin-bottom: 3%;
 }
 #page16>button{
     position: absolute;
-    bottom: 10%;
+    bottom: 7%;
     padding: 10px 20px;
     font-size: 1.5vw;
     border-radius: 50px;
